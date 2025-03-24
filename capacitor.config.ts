@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.agecalculator',
-  appName: 'AgeCalculator',
+  appId: 'io.ionic.age',
+  appName: 'my-age-app',
   webDir: 'build'
 };
 

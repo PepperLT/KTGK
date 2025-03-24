@@ -1,0 +1,10 @@
+{
+    "appID" : "io.ionic.bmi",
+    "appName" : "bmi",
+    "webDir" : "build",
+    "bundledWebRuntime" : false,
+    "npmClient" : "npm",
+    "server" : {
+        "androidScheme": "https"
+    }
+}

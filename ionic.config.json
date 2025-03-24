@@ -1,0 +1,7 @@
+{
+    "name" : "My Age App",
+    "integrations" : {
+        "capacitor" : {}
+    },
+    "type" : "react"
+}
